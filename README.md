@@ -20,7 +20,7 @@ Several CSV/Excel tables were combined to build a unified dataset, including:
 - Rain probability data  
 ## 📸 Dashboard Preview
 
-![Weather Dashboard](18a1ac2e-fbf1-4b6d-9f29-5caa689219ea.png)
+![Weather Dashboard](https://github.com/MD-59/Weather-web-API-Dashboard/blob/main/Screenshot%202025-11-30%20231545.png)
 
 ---
 
